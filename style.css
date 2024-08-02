@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+canvas {
+    outline: white 3px solid;
+}
+
+div {
+    text-align: center;
+    margin: 250px;
+}
